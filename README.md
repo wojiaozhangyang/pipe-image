@@ -1,13 +1,32 @@
 # pipe-image
 管廊项目
-https://github.com/wojiaozhangyang/pipe-image/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200912130247.png
 
 
-<img src="https://github.com/wojiaozhangyang/pipe-image/raw/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200912130247.png?raw=true"  align=center />
---
 
-<img src="https://github.com/wojiaozhangyang/pipe-image/raw/master/微信截图_20200912130247.png?raw=true" align=center />
-***-
-![](https://github.com/wojiaozhangyang/pipe-image/raw/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200912130247.png)
---/*
-![](https://github.com/wojiaozhangyang/pipe-image/raw/master/微信截图_20200912130247.png?raw=true)
+![](./微信截图_20200912130247.png)
+![](./微信截图_20200912130349.png)
+![](./微信截图_20200912130421.png)
+![](./微信截图_20200912130445.png)
+![](./微信截图_20200912130505.png)
+![](./微信截图_20200912130543.png)
+![](./微信截图_20200912130614.png)
+![](./微信截图_20200912130655.png)
+![](./微信截图_20200912130709.png)
+![](./微信截图_20200912130727.png)
+![](./微信截图_20200912130805.png)
+![](./微信截图_20200912130818.png)
+![](./微信截图_20200912130831.png)
+![](./微信截图_20200912131317.png)
+![](./微信截图_20200912131341.png)
+![](./微信截图_20200912131401.png)
+![](./微信截图_20200912131423.png)
+![](./微信截图_20200912131434.png)
+![](./微信截图_20200912131515.png)
+![](./微信截图_20200912131533.png)
+![](./微信截图_20200912131557.png)
+![](./微信截图_20200912131605.png)
+![](./微信截图_20200912131619.png)
+![](./微信截图_20200912131635.png)
+![](./微信截图_20200912132556.png)
+![](./微信截图_20200912132613.png)
+![](./微信截图_20200912132711.png)
